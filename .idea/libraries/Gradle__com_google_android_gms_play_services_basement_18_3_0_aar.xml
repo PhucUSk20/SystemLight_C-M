@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.android.gms:play-services-basement:18.3.0@aar">
     <CLASSES>
-      <root url="jar://F:/PC/Gradle/caches/transforms-2/files-2.1/44be3d42d6ad3de28910bece0b75938e/jetified-play-services-basement-18.3.0/jars/classes.jar!/" />
-      <root url="file://F:/PC/Gradle/caches/transforms-2/files-2.1/44be3d42d6ad3de28910bece0b75938e/jetified-play-services-basement-18.3.0/res" />
-      <root url="file://F:/PC/Gradle/caches/transforms-2/files-2.1/44be3d42d6ad3de28910bece0b75938e/jetified-play-services-basement-18.3.0/AndroidManifest.xml" />
+      <root url="file://F:/PC/Gradle/caches/transforms-3/5ab6d062b293f8fa0522de3cff727fbb/transformed/jetified-play-services-basement-18.3.0/res" />
+      <root url="jar://F:/PC/Gradle/caches/transforms-3/5ab6d062b293f8fa0522de3cff727fbb/transformed/jetified-play-services-basement-18.3.0/jars/classes.jar!/" />
+      <root url="file://F:/PC/Gradle/caches/transforms-3/5ab6d062b293f8fa0522de3cff727fbb/transformed/jetified-play-services-basement-18.3.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://F:/PC/Gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-basement/18.3.0/e61eb1de744d26db0c5234739277e8cb80e7ebdf/play-services-basement-18.3.0-javadoc.jar!/" />

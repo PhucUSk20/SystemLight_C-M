@@ -2,6 +2,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="com.project.systemcontrol_smartlight">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
 
     <application
         android:allowBackup="true"
@@ -12,7 +15,9 @@
         android:theme="@style/Theme.ExpandableListview"
         tools:replace="android:icon"> <!-- Added tools:replace attribute here -->
         <activity android:name="com.project.SLCAM.TrafficLightDetailActivity"></activity>
-        <activity android:name="com.project.SLCAM.MainActivity">
+        <activity android:name="com.project.SLCAM.LineChartActivity"></activity>
+        <activity android:name="com.project.SLCAM.MainActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />

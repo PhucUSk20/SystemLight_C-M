@@ -4,7 +4,6 @@ import android.content.Intent;
 import android.view.View;
 import android.widget.TextView;
 
-import com.project.systemcontrol_smartlight.R;
 import com.thoughtbot.expandablerecyclerview.models.ExpandableGroup;
 import com.thoughtbot.expandablerecyclerview.viewholders.ChildViewHolder;
 
@@ -33,7 +32,7 @@ public class TrafficLightViewHolder extends ChildViewHolder {
         itemView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(itemView.getContext(), TrafficLightDetailActivity.class);
+                Intent intent = new Intent(itemView.getContext(), LineChartActivity.class);
                 intent.putExtra("TRAFFIC_LIGHT_NAME", trafficLight.getName());
                 itemView.getContext().startActivity(intent);
             }

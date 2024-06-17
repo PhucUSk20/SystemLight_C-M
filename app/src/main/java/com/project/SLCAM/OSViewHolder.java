@@ -4,7 +4,6 @@ import android.util.Log;
 import android.view.View;
 import android.widget.TextView;
 
-import com.project.systemcontrol_smartlight.R;
 import com.thoughtbot.expandablerecyclerview.models.ExpandableGroup;
 import com.thoughtbot.expandablerecyclerview.viewholders.GroupViewHolder;
 

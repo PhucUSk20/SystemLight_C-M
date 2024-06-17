@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.appcompat:appcompat:1.2.0@aar">
     <ANNOTATIONS>
-      <root url="jar://F:/PC/Gradle/caches/transforms-2/files-2.1/607da5e6eb67f10a1787670c7ddda5bb/appcompat-1.2.0/annotations.zip!/" />
+      <root url="jar://F:/PC/Gradle/caches/transforms-3/44ae33862ebbd1ed4a9d733ab32792a1/transformed/appcompat-1.2.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://F:/PC/Gradle/caches/transforms-2/files-2.1/607da5e6eb67f10a1787670c7ddda5bb/appcompat-1.2.0/res" />
-      <root url="jar://F:/PC/Gradle/caches/transforms-2/files-2.1/607da5e6eb67f10a1787670c7ddda5bb/appcompat-1.2.0/jars/classes.jar!/" />
-      <root url="file://F:/PC/Gradle/caches/transforms-2/files-2.1/607da5e6eb67f10a1787670c7ddda5bb/appcompat-1.2.0/AndroidManifest.xml" />
+      <root url="file://F:/PC/Gradle/caches/transforms-3/44ae33862ebbd1ed4a9d733ab32792a1/transformed/appcompat-1.2.0/AndroidManifest.xml" />
+      <root url="jar://F:/PC/Gradle/caches/transforms-3/44ae33862ebbd1ed4a9d733ab32792a1/transformed/appcompat-1.2.0/jars/classes.jar!/" />
+      <root url="file://F:/PC/Gradle/caches/transforms-3/44ae33862ebbd1ed4a9d733ab32792a1/transformed/appcompat-1.2.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
