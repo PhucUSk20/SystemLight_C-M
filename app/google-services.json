@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "773333254863",
+    "firebase_url": "https://lediot-6777b-default-rtdb.firebaseio.com",
+    "project_id": "lediot-6777b",
+    "storage_bucket": "lediot-6777b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773333254863:android:13a67e4ba3c0e968b7adba",
+        "android_client_info": {
+          "package_name": "com.project.SLCAM"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD92XNpzCaYd6GJr3fGYedx3z2dpFO8vSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
